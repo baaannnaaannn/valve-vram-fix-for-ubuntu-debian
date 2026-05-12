@@ -1,4 +1,10 @@
 # valve-vram-fix-for-ubuntu-debian
+kernel
+mainstream - still has no patches for fix
+liquorix - has patches but it wouldnt load for me
+xanmod - still has not patches
+pika os - has patches and works
+
 so ive compiled dmemcg booster and it seems compiled right
 <img width="640" height="334" alt="Снимок экрана от 2026-05-12 15-52-04" src="https://github.com/user-attachments/assets/f5fe60af-4b1e-4dd1-8e1d-72bb0dbde305" />
 
