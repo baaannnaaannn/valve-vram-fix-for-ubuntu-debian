@@ -8,6 +8,13 @@ compile yourself applying patches
 ## dmemc-booster
 ### compiling [dmemcg-booster](https://gitlab.steamos.cloud/holo/dmemcg-booster)
 ```
+sudo apt install git build-essential meson ninja-build libsystemd-dev libdbus-1-dev pkg-config
+```
+install rust from rust website
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```
 git clone https://gitlab.steamos.cloud/holo/dmemcg-booster.git
 ```
 ```
