@@ -50,6 +50,21 @@ systemctl status dmemcg-booster
 and it seems like first one is much more accurate but with
 `systemctl status dmemcg-booster` it couldnt find any services
 but it seems like `systemctl status dmemcg-booster-system.service` worked
+
+if got error service not started use this to fix
+```
+sudo cp /usr/local/bin/dmemcg-booster /usr/bin/dmemcg-booster
+```
+```
+sudo chmod +x /usr/bin/dmemcg-booster
+```
+```
+sudo systemctl daemon-reload
+```
+```
+sudo systemctl restart dmemcg-booster
+```
+systemctl status dmemcg-booster
 ### checking dmemcg-booster
 so with all this checks i can confirm my result
 ```
