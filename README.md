@@ -3,7 +3,8 @@
 mainstream - still has no patches for fix  
 liquorix - has patches but it wouldnt load for me  
 xanmod - still has not patches  
-pika os - has patches and works
+pika os - has patches and works  
+compile yourself applying patches
 
 ## compiling dmemcg-booster
 so ive compiled dmemcg booster and it seems compiled right
