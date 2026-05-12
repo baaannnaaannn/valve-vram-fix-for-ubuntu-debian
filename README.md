@@ -1,4 +1,4 @@
-# valve-vram-fix-for-ubuntu-debian
+# [valve-vram-fix](https://pixelcluster.github.io/VRAM-Mgmt-fixed/)-for-ubuntu-debian
 ## kernel  
 mainstream - still has no patches for fix  
 liquorix - has patches but it wouldnt load for me  
