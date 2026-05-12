@@ -1,5 +1,5 @@
 # valve-vram-fix-for-ubuntu-debian
-kernel
+##kernel
 mainstream - still has no patches for fix
 liquorix - has patches but it wouldnt load for me
 xanmod - still has not patches
