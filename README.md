@@ -176,6 +176,6 @@ lvvy@lvvy-desktop:~/Загрузки/dmemcg-booster$
 so i hope its working fine, isnt it?
 
 ## third utility for working with our games
-1.gamescope with [this](https://github.com/ValveSoftware/gamescope/commit/62b49b030cf76a0946292dd8379a87dcd16979ee.patch) patch or newer versions
-2.[this](https://github.com/pixelcluster/pixelcluster.github.io/discussions/8#discussioncomment-16859248) script
-3.kde utility called [plasma-foreground-booster     pixelcluster's fork](https://github.com/pixelcluster/kcgroups)
+### 1.gamescope with [this](https://github.com/ValveSoftware/gamescope/commit/62b49b030cf76a0946292dd8379a87dcd16979ee.patch) patch or newer versions
+### 2.[this](https://github.com/pixelcluster/pixelcluster.github.io/discussions/8#discussioncomment-16859248) script
+### 3.kde utility called [plasma-foreground-booster     pixelcluster's fork](https://github.com/pixelcluster/kcgroups)
