@@ -5,8 +5,8 @@ liquorix - has patches but it wouldnt load for me
 xanmod - still has not patches  
 pika os - has patches and works  
 compile yourself applying patches
-
-## compiling [dmemcg-booster](https://gitlab.steamos.cloud/holo/dmemcg-booster)
+## dmemc-booster
+### compiling [dmemcg-booster](https://gitlab.steamos.cloud/holo/dmemcg-booster)
 ```
 git clone https://gitlab.steamos.cloud/holo/dmemcg-booster.git
 ```
