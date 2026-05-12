@@ -19,7 +19,7 @@ cargo build --release
 
 so ive compiled dmemcg booster and it seems compiled right
 <img width="640" height="334" alt="Снимок экрана от 2026-05-12 15-52-04" src="https://github.com/user-attachments/assets/f5fe60af-4b1e-4dd1-8e1d-72bb0dbde305" />
-## installing [dmemcg-booster](https://gitlab.steamos.cloud/holo/dmemcg-booster)
+### installing [dmemcg-booster](https://gitlab.steamos.cloud/holo/dmemcg-booster)
 then ai gave me two options for installing and i couldnt find any instructions in github repo
 ```
 sudo install -Dm755 target/release/dmemcg-booster /usr/local/bin/dmemcg-booster
@@ -43,6 +43,7 @@ systemctl status dmemcg-booster
 and it seems like first one is much more accurate but with
 `systemctl status dmemcg-booster` it couldnt find any services
 but it seems like `systemctl status dmemcg-booster-system.service` worked
+### checking dmemcg-booster
 so with all this checks i can confirm my result
 ```
 lvvy@lvvy-desktop:~/Загрузки/dmemcg-booster$ systemctl status dmemcg-booster-system.service
